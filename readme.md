@@ -1,7 +1,7 @@
-#Inked : code you wrote yourself, like handwriting.
+Inked : code you wrote yourself, like handwriting.
 
 
-##A coding practice platform where you can't paste your code. You write every line yourself.
+A coding practice platform where you can't paste your code. You write every line yourself.
 
 The idea
 
